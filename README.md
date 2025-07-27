@@ -26,7 +26,7 @@ Um jogo da velha moderno feito com **React** e **TypeScript**, que permite dois 
 ![Tela inicial do jogo](src/assets/home.png)
 
 ### ✅ Vitória de um jogador
-![Mensagem de vitória com botão de reinício](src/assets/victory.png)
+![Mensagerm de vitória](src/assets/victory.png)
 
 ### 🤝 Empate
-![Mensagem de empate](src/assets/draw.png)
+![Mensagem de empat](src/assets/draw.png)
