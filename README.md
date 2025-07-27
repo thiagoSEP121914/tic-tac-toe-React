@@ -36,10 +36,10 @@ Um jogo da velha moderno feito com **React** e **TypeScript**, que permite dois 
 - ## 📸 Capturas de Tela
 
 ### 🎮 Tela Inicial
-![Tela inicial do jogo](assets/home.png)
+![Tela inicial do jogo](home.png)
 
 ### ✅ Vitória de um jogador
-![Mensagem de vitória com botão de reinício](assets/victory.png)
+![Mensagem de vitória com botão de reinício](victory.png)
 
 ### 🤝 Empate
-![Mensagem de empate](assets/draw.png)
+![Mensagem de empate](/draw.png)
