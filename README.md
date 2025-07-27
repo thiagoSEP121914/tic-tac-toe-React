@@ -23,10 +23,10 @@ Um jogo da velha moderno feito com **React** e **TypeScript**, que permite dois 
 - ## 📸 Capturas de Tela
 
 ### 🎮 Tela Inicial
-![Tela inicial do jogo](home.png)
+![Tela inicial do jogo](src/assets/home.png)
 
 ### ✅ Vitória de um jogador
-![Mensagem de vitória com botão de reinício](victory.png)
+![Mensagem de vitória com botão de reinício](src/assets/victory.png)
 
 ### 🤝 Empate
-![Mensagem de empate](/draw.png)
+![Mensagem de empate](src/assets/draw.png)
