@@ -4,19 +4,6 @@ Um jogo da velha moderno feito com **React** e **TypeScript**, que permite dois 
 
 ---
 
-## 📸 Capturas de Tela
-
-### 🎮 Tela Inicial
-![Tela inicial do jogo](assets/home.png)
-
-### ✅ Vitória de um jogador
-![Mensagem de vitória com botão de reinício](assets/victory.png)
-
-### 🤝 Empate
-![Mensagem de empate](assets/draw.png)
-
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Dois jogadores (X e O)
@@ -36,10 +23,10 @@ Um jogo da velha moderno feito com **React** e **TypeScript**, que permite dois 
 - ## 📸 Capturas de Tela
 
 ### 🎮 Tela Inicial
-![Tela inicial do jogo](assets/home.png)
+![Tela inicial do jogo](src/assets/home.png)
 
 ### ✅ Vitória de um jogador
-![Mensagem de vitória com botão de reinício](assets/victory.png)
+![Mensagerm de vitória](src/assets/victory.png)
 
 ### 🤝 Empate
-![Mensagem de empate](assets/draw.png)
+![Mensagem de empat](src/assets/draw.png)
